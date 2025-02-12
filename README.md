@@ -17,5 +17,6 @@
 ---
 
 
-📢 *The application was uploaded to the Google Play Store, but unfortunately, the account was deleted from the store.*
+- 📢 [المستشار القانوني | للمحامي](https://apps.apple.com/us/app/%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%B4%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%D9%8A-%D9%84%D9%84%D9%85%D8%AD%D8%A7%D9%85%D9%8A/id6505034031)
+- 📢 [المستشار القانوني | استشارات](https://apps.apple.com/us/app/%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%B4%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%D9%8A-%D8%A7%D8%B3%D8%AA%D8%B4%D8%A7%D8%B1%D8%A7%D8%AA/id6505033107)
 
